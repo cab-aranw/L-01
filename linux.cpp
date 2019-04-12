@@ -1,1 +1,6 @@
-ME CAGOOOOOOOO EN CIEEEEENNNNN
+include<iostream>
+
+int main() 
+{
+	return 0;
+}
